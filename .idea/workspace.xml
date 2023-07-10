@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a1837b1-b7f6-49e8-a20b-5763172aa774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company_name/day03/ArithmeticOperatorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company_name/day03/DataTypes2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company_name/day03/VariableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company_name/day04/CheckGreaterNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company_name/day04/ConditionalOperatorOrTernaryOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company_name/day04/ElseIfLeader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company_name/day04/LogicalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company_name/day04/RelationalOperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company_name/day04/StringConcatenation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,23 +34,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
-}</component>
-  <component name="RunManager" selected="Application.ArithmeticOperatorDemo">
-    <configuration name="ArithmeticOperatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company_name.day03.ArithmeticOperatorDemo" />
+}]]></component>
+  <component name="RunManager" selected="Application.ElseIfLeader">
+    <configuration name="CheckGreaterNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company_name.day04.CheckGreaterNumber" />
       <module name="core-java-sessions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company_name.day03.*" />
+          <option name="PATTERN" value="com.company_name.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company_name.day02.DataTypes" />
+    <configuration name="ConditionalOperatorOrTernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company_name.day04.ConditionalOperatorOrTernaryOperator" />
       <module name="core-java-sessions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company_name.day02.*" />
+          <option name="PATTERN" value="com.company_name.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataTypes2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company_name.day03.DataTypes2" />
+    <configuration name="ElseIfLeader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company_name.day04.ElseIfLeader" />
       <module name="core-java-sessions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company_name.day03.*" />
+          <option name="PATTERN" value="com.company_name.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyFirstJavaCode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company_name.day01.MyFirstJavaCode" />
+    <configuration name="LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company_name.day04.LogicalOperator" />
       <module name="core-java-sessions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company_name.day01.*" />
+          <option name="PATTERN" value="com.company_name.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company_name.day03.VariableDemo" />
+    <configuration name="StringConcatenation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company_name.day04.StringConcatenation" />
       <module name="core-java-sessions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company_name.day03.*" />
+          <option name="PATTERN" value="com.company_name.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArithmeticOperatorDemo" />
-        <item itemvalue="Application.VariableDemo" />
-        <item itemvalue="Application.DataTypes2" />
-        <item itemvalue="Application.MyFirstJavaCode" />
-        <item itemvalue="Application.DataTypes" />
+        <item itemvalue="Application.ElseIfLeader" />
+        <item itemvalue="Application.CheckGreaterNumber" />
+        <item itemvalue="Application.StringConcatenation" />
+        <item itemvalue="Application.ConditionalOperatorOrTernaryOperator" />
+        <item itemvalue="Application.LogicalOperator" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +138,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688624670120</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1688705523172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688705523173</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
