@@ -1,4 +1,4 @@
-package com.company_name.day04;
+package com.company_name.day05;
 
 public class DoWhileLoop {
     public static void main(String[] args) {
