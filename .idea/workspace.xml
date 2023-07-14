@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a1837b1-b7f6-49e8-a20b-5763172aa774" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/company_name/day07/StringOperationMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company_name/day07/TwoDimensionalArray.java" afterDir="false" />
+    <list default="true" id="8a1837b1-b7f6-49e8-a20b-5763172aa774" name="Changes" comment="Initial commit">
+      <change afterPath="$PROJECT_DIR$/src/com/company_name/day08/StringOperationsMethods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,20 +42,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StringOperationMethods">
-    <configuration name="BreakStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company_name.day06.BreakStatement" />
-      <module name="core-java-sessions" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company_name.day06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringOperationsMethods">
     <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company_name.day06.ContinueStatement" />
       <module name="core-java-sessions" />
@@ -96,6 +82,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringOperationsMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company_name.day08.StringOperationsMethods" />
+      <module name="core-java-sessions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company_name.day08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TwoDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company_name.day07.TwoDimensionalArray" />
       <module name="core-java-sessions" />
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringOperationsMethods" />
         <item itemvalue="Application.StringOperationMethods" />
         <item itemvalue="Application.TwoDimensionalArray" />
         <item itemvalue="Application.SingleArrayDemo" />
         <item itemvalue="Application.ContinueStatement" />
-        <item itemvalue="Application.BreakStatement" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1689136466538</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1689224740409</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1689224740409</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
