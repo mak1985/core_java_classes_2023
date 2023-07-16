@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a1837b1-b7f6-49e8-a20b-5763172aa774" name="Changes" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/src/com/company_name/day08/StringOperationsMethods.java" afterDir="false" />
+    <list default="true" id="8a1837b1-b7f6-49e8-a20b-5763172aa774" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,22 +29,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
-  }
-}</component>
-  <component name="RunManager" selected="Application.StringOperationsMethods">
-    <configuration name="ContinueStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company_name.day06.ContinueStatement" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.DoWhileLoop">
+    <configuration name="BreakStatement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company_name.day06.BreakStatement" />
       <module name="core-java-sessions" />
       <extension name="coverage">
         <pattern>
@@ -56,12 +46,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company_name.day06.SingleArrayDemo" />
+    <configuration name="DoWhileLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company_name.day05.DoWhileLoop" />
       <module name="core-java-sessions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company_name.day06.*" />
+          <option name="PATTERN" value="com.company_name.day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,15 +100,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DoWhileLoop" />
+        <item itemvalue="Application.BreakStatement" />
         <item itemvalue="Application.StringOperationsMethods" />
-        <item itemvalue="Application.StringOperationMethods" />
         <item itemvalue="Application.TwoDimensionalArray" />
-        <item itemvalue="Application.SingleArrayDemo" />
-        <item itemvalue="Application.ContinueStatement" />
+        <item itemvalue="Application.StringOperationMethods" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="8a1837b1-b7f6-49e8-a20b-5763172aa774" name="Changes" comment="" />
@@ -183,11 +176,45 @@
       <option name="project" value="LOCAL" />
       <updated>1689224740409</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1689310007837</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1689310007838</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1689533803125">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1689533803125" />
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom" timestamp="1689533762847">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.bottom/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1689533762847" />
+    <state width="1345" height="166" key="GridCell.Tab.0.center" timestamp="1689533762846">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.center/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1689533762846" />
+    <state width="1345" height="166" key="GridCell.Tab.0.left" timestamp="1689533762844">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.left/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1689533762844" />
+    <state width="1345" height="166" key="GridCell.Tab.0.right" timestamp="1689533762846">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1345" height="166" key="GridCell.Tab.0.right/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1689533762846" />
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1689533653723">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="391" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.738/1366.0.1920.1050@0.0.1366.738" timestamp="1689533653723" />
   </component>
 </project>
