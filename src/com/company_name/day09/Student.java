@@ -1,5 +1,7 @@
 package com.company_name.day09;
 
+import com.company_name.day08.StringOperationsMethods;
+
 public class Student {
     int roll; //non-static data member(also instance variable)
     String name; //non-static data member(also instance variable
@@ -13,5 +15,7 @@ public class Student {
         System.out.println(s1.name); //default value = null for String
         System.out.println(s1.roll); //default value = 0 for int, short, long, byte datatype
         //default value = false for boolean datatype
+
+        StringOperationsMethods obj = new StringOperationsMethods();
     }
 }
