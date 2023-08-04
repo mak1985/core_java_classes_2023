@@ -22,6 +22,5 @@ public class WrapperClass {
         Integer b = Integer.valueOf(i); //Primitive to Object type conversion
         System.out.println(b); //10
 
-
     }
 }
