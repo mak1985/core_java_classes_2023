@@ -2,7 +2,6 @@ package com.company_name.day25;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Iterator;
 
 public class ArrayListDemo2 {
     public static void main(String[] args) {
@@ -13,19 +12,14 @@ public class ArrayListDemo2 {
         obj.add("A");
         obj.add("C");
         //obj.add(100);
-
-
         System.out.println(obj);
-
         //AddAll ()
         ArrayList <String> obj1 = new ArrayList<>();
         obj1.addAll(obj);
         System.out.println("After adding collection as obj to obj1 " + obj1); //[S, A, M]
-
         //removeAll()
         obj1.removeAll(obj);
         System.out.println("After removing collection "+ obj1);
-
         //How to use loop through elements of array list
         /**
          * for loop
@@ -46,17 +40,13 @@ public class ArrayListDemo2 {
 //            System.out.println(it.next());
 //        }
 //
-
         //How to sort arrayList using Collections class
         System.out.println("Before sorting " + obj); //B, A, C
-
         Collections.sort(obj);
         System.out.println("After sorting " + obj); //A, B, C
-
         //sorting arrayList in reverse order
         Collections.sort(obj, Collections.reverseOrder());
         System.out.println("After reverse order sorting " + obj); //C, B, A
-
         //shuffle()
         Collections.shuffle(obj);
         System.out.println("After shuffling " +obj); //A, C, B,
