@@ -50,5 +50,7 @@ public class ArrayListDemo2 {
         //shuffle()
         Collections.shuffle(obj);
         System.out.println("After shuffling " +obj); //A, C, B,
+
+
     }
 }
