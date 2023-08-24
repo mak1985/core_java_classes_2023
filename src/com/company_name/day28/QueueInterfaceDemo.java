@@ -1,5 +1,6 @@
 package com.company_name.day28;
 
+import java.util.Iterator;
 import java.util.PriorityQueue;
 
 public class QueueInterfaceDemo {
@@ -21,12 +22,27 @@ public class QueueInterfaceDemo {
         //offer(0 method
         queue.offer(100);
         System.out.println(queue);
-        queue.clear();
+        //queue.clear();
         //accessing the data
 //        System.out.println(queue.element());
 
         //peek()
         System.out.println(queue.peek());
 
+        //pull method
+        System.out.println(queue.poll());//5
+        System.out.println(queue);
+
+
+        //Read element of priority queue
+        Iterator it = queue.iterator();
+        while (it.hasNext()) {
+            System.out.println(it.next());
+        }
+
+        //read elements using for each loop
+        for (Object object: queue) {
+            System.out.println(object);
+        }
     }
 }
