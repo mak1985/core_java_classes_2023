@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8a1837b1-b7f6-49e8-a20b-5763172aa774" name="Changes" comment="Changes">
+      <change afterPath="$PROJECT_DIR$/src/com/company_name/day31/HashTableDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company_name/day30/HashMapDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company_name/day30/HashMapDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +45,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.HashMapDemo">
+  <component name="RunManager" selected="Application.HashTableDemo">
     <configuration name="HashMapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company_name.day30.HashMapDemo" />
       <module name="core-java-sessions" />
@@ -70,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HashSetCode2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company_name.day28.HashSetCode2" />
+    <configuration name="HashTableDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company_name.day31.HashTableDemo" />
       <module name="core-java-sessions" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company_name.day28.*" />
+          <option name="PATTERN" value="com.company_name.day31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashTableDemo" />
         <item itemvalue="Application.HashMapDemo" />
         <item itemvalue="Application.QueueInterfaceDemo" />
         <item itemvalue="Application.LinkedHashSetCode1" />
         <item itemvalue="Application.HashSetCode1" />
-        <item itemvalue="Application.HashSetCode2" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +386,14 @@
       <option name="project" value="LOCAL" />
       <updated>1692851694996</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Changes">
+      <created>1693155718186</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1693155718186</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
